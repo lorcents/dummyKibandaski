@@ -50,7 +50,7 @@ const CheckOut = (props) => {
       name: enteredName,
       street: enteredStreet,
       postal: enteredPostal,
-      city: eneteredCityIsValid,
+      city: eneteredCity,
     });
   };
 
